@@ -1,67 +1,67 @@
 .wrap {
-    width:  1286px;
-    margin: 0 auto;
-  }
+  width:  1286px;
+  margin: 0 auto;
+}
 
-  .header_image {
-    width:  1286px;
-    height: 737px;
-    background-image: url("header.jpg");
-  }
-  
-  .header_text {
-    height:          94px;
-    text-align:      center;
-    margin:          0;
-    padding:         297px 0 0 0;
-    color:           white;
-    font-size:       28px;
-    font-weight:     100;
-    text-transform:  uppercase;
-    letter-spacing:  -2px;
-  }
+.header_image {
+  width:  1286px;
+  height: 737px;
+  background-image: url("header.jpg");
+}
 
-  .created_by {
-    color: rgb(0,175, 252);
-    vertical-align: middle;
-  }
+.header_text {
+  height:          94px;
+  text-align:      center;
+  margin:          0;
+  padding:         297px 0 0 0;
+  color:           white;
+  font-size:       28px;
+  font-weight:     100;
+  text-transform:  uppercase;
+  letter-spacing:  -2px;
+}
 
-  a:link {text-decoration:none;}
-  a:visited {text-decoration:none;}
-  a:hover {text-decoration:none;}
-  a:active {text-decoration:none;}
+.created_by {
+  color: rgb(0,175, 252);
+  vertical-align: middle;
+}
 
-  .physion_text {
-    font-size: 42px;
-    vertical-align: middle;
-  }
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:none;}
+a:active {text-decoration:none;}
 
-  .contact_us {
-    color: rgb(201, 1, 255);
-    vertical-align: middle;
-  }
+.physion_text {
+  font-size: 42px;
+  vertical-align: middle;
+}
 
-  .contact_us:hover {
-    color: rgb(255, 80, 255);
-  }
+.contact_us {
+  color: rgb(201, 1, 255);
+  vertical-align: middle;
+}
 
-  .visit_ovation {
-    color: rgb(7, 189, 18);
-    vertical-align: middle;
-  }
+.contact_us:hover {
+  color: rgb(255, 80, 255);
+}
 
-  .visit_ovation:hover {
-    color: rgb(70, 255, 90);
-  }
+.visit_ovation {
+  color: rgb(7, 189, 18);
+  vertical-align: middle;
+}
 
-  .contact_info {
-    font-size:   20px;
-    padding:     10 0 0 215px;
-  }
+.visit_ovation:hover {
+  color: rgb(70, 255, 90);
+}
 
-  .mail_info_link {
-    color: rgb(1, 173, 239);
-  }
-  .mail_info_link:hover {
-    color: rgb(1, 200, 250);
-  }
+.contact_info {
+  font-size:   20px;
+  padding:     10 0 0 215px;
+}
+
+.mail_info_link {
+  color: rgb(1, 173, 239);
+}
+.mail_info_link:hover {
+  color: rgb(1, 200, 250);
+}
