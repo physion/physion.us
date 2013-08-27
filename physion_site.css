@@ -16,7 +16,6 @@
     padding:         297px 0 0 0;
     color:           white;
     font-size:       28px;
-    font-family:     "proxima-nova-extra-condensed", Helvetica, Arial, sans-serif;
     font-weight:     300;
     text-transform:  uppercase;
     letter-spacing:  -2px;
@@ -56,7 +55,6 @@
   }
 
   .contact_info {
-    font-family: "proxima-nova-extra-condensed",sans-serif;
     font-size:   20px;
     padding:     10 0 0 215px;
   }
